@@ -6,5 +6,8 @@ Apresentações
 * 🚀 SEMPRE EM BUSCA DE CRESCIMENTO
 * 📚 APRIMORANDO MEUS ESTUDOS
 * 📊 ESTUDANDE DE CIENCIA DE DADOS PELA EBAC
+* 👨‍🎓 FORMADO EM ANALISE E DESENVOLVIMENTO DE SISTEMAS
+
+  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
