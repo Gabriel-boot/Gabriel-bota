@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=681613&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=OLA!,+Meu+nome+e+GABRIEL+MENDES;tenho+26+anos;sou+Brasileiro;Data+Scientist;seja+bem-vindo!+:%29)](htt ps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=OLA!,+Meu+nome+e+GABRIEL+MENDES;tenho+26+anos;Brasileiro;estudante+de+Data+Scientist;seja+bem-vindo!+:%28)
 
 Apresentações
 
