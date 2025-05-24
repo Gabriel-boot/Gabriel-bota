@@ -1,11 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=681613&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c1a42&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=OLA!,+Meu+nome+e+GABRIEL+MENDES;Tenho+26+anos;Brasileiro;Estudante+de+Data+Scientist;Sejam+Bem-vindos!+%28:)
 
 * 👨‍🎓 FORMADO EM ANALISE E DESENVOLVIMENTO DE SISTEMAS
+* 📊 ESTUDANDE DE CIENCIA DE DADOS PELA EBAC
 * 🚀 SEMPRE EM BUSCA DE CRESCIMENTO
 * 📚 APRIMORANDO MEUS ESTUDOS
-* 📊 ESTUDANDE DE CIENCIA DE DADOS PELA EBAC
+
 
 
 
